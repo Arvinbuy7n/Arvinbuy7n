@@ -29,3 +29,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![Daisy-ui](https://img.shields.io/badge/Daisy--UI-8A2BE2?style=flat&logo=daisy-ui&logoColor=white)&nbsp;
+
+<p align="center">
+<a href="https://github.com/Arvinbuy7n">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arvinbuy7n&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arvinbuy7n&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
