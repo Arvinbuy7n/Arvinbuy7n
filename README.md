@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arvinbuyan</h1>
 <h3 align="center">A passionate Full Stack Developer from Mongolia</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <div align="center">
   <a href="https://github.com/Arvinbuy7n">
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
